@@ -3,7 +3,7 @@
 **Computer technician with programming orientation. Tester Jr. Front-end Developer, Graphic Designer**.
 
 ```
-const **Gabriel Adrián Sosa** = {
+const Gabriel Adrián Sosa = {
   code: [Javascript, HTML, CSS ],
   tools: [GitHub, Illustrator, Photoshop, SketchBook, Jira],
 }
