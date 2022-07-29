@@ -1,4 +1,4 @@
-###Hi! I am **Gabriel** 👋😄  I am 24 years old, 
+### Hi! I am **Gabriel** 👋😄  I am 24 years old, 
 
 **Computer technician with programming orientation. Tester Jr. Front-end Developer, Graphic Designer**.
 
