@@ -1,4 +1,6 @@
-Hi! I am **Gabriel** 👋😄  I am 24 years old, **Computer technician with programming orientation. Tester Jr. Front-end Developer, Graphic Designer**.
+Hi! I am **Gabriel** 👋😄  I am 24 years old, 
+
+**Computer technician with programming orientation. Tester Jr. Front-end Developer, Graphic Designer**.
 
 ```
 const **Gabriel Adrián Sosa** = {
